@@ -1,14 +1,14 @@
 <h1>Desafio - Roberto Ayres Pimenta</h1>
 <p>Email - roberto.uft@gmail.com</p>
-<br/>
+
 <p align="center">
     <img src="public/assets/readme/home.png" width="600px">
 </p>
-<br/>
+
 <p align="center">
     <img src="public/assets/readme/produtos.png" width="600px">
 </p>
-<br/>
+
 <p align="center">
     <img src="public/assets/readme/carrinho.png" width="600px">
 </p>
