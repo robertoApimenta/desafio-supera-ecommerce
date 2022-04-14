@@ -2,7 +2,7 @@ Desafio - Roberto Ayres Pimenta
 Email - roberto.uft@gmail.com
 
 <p align="center">
-    <img src="public/assets/readme/home.png">
+    <img src="public/assets/readme/home.png" width="400px">
 </p>
 
 
