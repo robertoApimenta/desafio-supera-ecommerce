@@ -1,4 +1,4 @@
-<h1>Desafio - Roberto Ayres Pimenta</h1>
+<h1>E-commerce - Roberto Ayres Pimenta</h1>
 <p>Email - roberto.uft@gmail.com</p>
 
 <p align="center">
