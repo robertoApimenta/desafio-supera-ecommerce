@@ -5,6 +5,10 @@ Email - roberto.uft@gmail.com
     <img src="public/assets/readme/home.png" width="400px">
 </p>
 
+<p align="center">
+    <img src="public/assets/readme/home.gif" width="400px">
+</p>
+
 
 ## Available Scripts
 
